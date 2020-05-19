@@ -1,5 +1,5 @@
-gg.alert("nama kalian", "Menu Cheat") --[[ 1 ]]
-gg.toast(" nama kalian ")
+gg.alert("skynet775", "Menu Cheat") --[[ 1 ]]
+gg.toast(" skynet 775 ")
 while(true) do
 if gg.isVisible(true) then
 menuk = 1
@@ -9,13 +9,13 @@ end
 
 START = 1
 function START()
-gg.alert(" nama kalian ")
+gg.alert(" skynet 775 ")
 menu = gg.choice({
 "Auto Headshot"
 ,"Damage++"
 ,"Warna Tubuh"
 ,"ðŸ”´ExitðŸ”´"
-},nil,"kasih teks sesuai keinginan kalian")
+},nil,"maaf ini hanya percobaan jangan ngamuk:v")
 if menu == 1 then DAK_AE1() end
 if menu == 2 then DAK_AE2() end
 if menu == 3 then DAK_AE3() end
@@ -40,7 +40,7 @@ function DAK_AE3()
 end
 
 
- print("Created By : nama kalian")
+ print("Created By : skynet 775")
 if menuk == 1 then START()
   end
 end
